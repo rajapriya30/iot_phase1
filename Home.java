@@ -1,6 +1,5 @@
 import javax.swing.*;
 import java.awt.*;
-
 public class home {
     JLabel label = new JLabel("CLICK YOUR CHOICE");
     JButton b1 = new JButton("ADD STUDENT");
